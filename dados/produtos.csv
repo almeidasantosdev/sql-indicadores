@@ -1,0 +1,19 @@
+sku,produto,linha,preco_tabela,custo_unitario
+COP-01,Copo vidro 300 ml,Copa,18.0,7.2
+COP-02,Taca vinho,Copa,32.0,14.0
+COP-03,Jarra 1 litro,Copa,28.0,11.0
+MES-01,Prato raso,Mesa,22.0,9.0
+MES-02,Prato fundo,Mesa,24.0,9.5
+MES-03,Talher avulso,Mesa,8.0,2.4
+MES-04,Travessa oval,Mesa,46.0,19.0
+COZ-01,Panela 2 litros,Cozinha,89.0,41.0
+COZ-02,Frigideira 24 cm,Cozinha,72.0,33.0
+COZ-03,Tigela inox,Cozinha,26.0,10.0
+COZ-04,Peneira,Cozinha,19.0,6.5
+BAN-01,Toalha banho,Banho,42.0,18.0
+BAN-02,Toalha rosto,Banho,18.0,7.0
+BAN-03,Tapete box,Banho,35.0,14.5
+ESC-01,Caderno A5,Escritorio,16.0,6.0
+ESC-02,Caneta esferografica,Escritorio,4.5,1.2
+ESC-03,Organizador mesa,Escritorio,38.0,15.0
+ESC-04,Luminaria mesa,Escritorio,95.0,44.0
